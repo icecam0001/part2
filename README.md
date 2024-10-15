@@ -1,6 +1,6 @@
 # Part 2: Communicating with Server
 This repository contains my submissions for Part 2 of the Full Stack Open 2024 course.
-#Projects
+# Projects
 
 courseinfo (extended)
 
