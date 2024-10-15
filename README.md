@@ -30,7 +30,7 @@ CSS
 
 #Setup and Installation
 # Clone the repository
-git clone https://github.com/yourusername/fullstack-part2.git
+git clone https://github.com/icecam0001/part2.git
 
 # Navigate to project directory
 cd fullstack-part2
