@@ -6,7 +6,6 @@ courseinfo (extended)
 
 phonebook
 
-countries
 
 # Features
 
@@ -18,7 +17,7 @@ Collection rendering
 
 Styling React applications
 
-#Technologies Used
+# Technologies Used
 
 React
 
